@@ -1,41 +1,25 @@
-# Hi there! 👋 Welcome to My GitHub Profile  
+# Gurdish Singh
 
-I'm Gurdish Singh, a **Digital Marketing Specialist** passionate about technology and constantly seeking new ways to expand my skillset. 🌟  
-
-Currently, I'm on an exciting journey of learning **web development** in the **Node.js environment**. My goal is to merge my expertise in marketing with cutting-edge web technologies to create meaningful digital experiences.  
+![](https://github-profile-trophy.vercel.app/?username=gurdish-singh&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=flat&logo=Mantine&logoColor=339af0) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
 
-## ✨ A Little More About Me:  
+## 🧔‍♂️ About Me:
+### 📱 **Digital Marketing Specialist** | 💻 **Aspiring Web Developer**
+I'm Gurdish Singh, a Digital Marketing Specialist with a strong foundation in data-driven strategies. Currently, I'm on an exciting journey to merge my marketing expertise with cutting-edge web technologies by learning web development in the Node.js environment.
 
-- 🎯 **Marketing Pro**: With a strong foundation in digital marketing, I understand the power of data-driven strategies to build impactful campaigns.  
-- 💻 **Web Dev Enthusiast**: Learning **Node.js**, **JavaScript**, and other modern web development tools to bring ideas to life on the web.  
-- 📈 **Tech Meets Marketing**: I'm excited to explore how web development and digital marketing can work hand-in-hand for innovative solutions.  
-- 🌱 **Lifelong Learner**: Whether it's exploring new frameworks, honing design skills, or diving into backend development, I'm always eager to learn.  
+- 🎯 **Marketing Pro**: Crafting impactful campaigns through data-driven strategies.
+- 💻 **Web Dev Enthusiast**: Learning Node.js, JavaScript, and modern web development tools.
+- 📈 **Tech Meets Marketing**: Exploring the synergy between web development and digital marketing.
+- 🌱 **Lifelong Learner**: Continuously honing skills in frameworks, design, and backend development.
 
----
+## 🏁 Github Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gurdish-singh&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gurdish-singh&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gurdish-singh&theme=aura&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=gurdish-singh&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
-## 🔧 Technologies and Tools I'm Learning:  
-
-- **Languages**: JavaScript (ES6+), HTML, CSS  
-- **Frameworks & Libraries**: Node.js, React, Remix (coming soon!)  
-- **Other Tools**: Git, Tailwind CSS, WordPress  
-
----
-
-## 🚀 Goals for 2025:  
-
-1. Build and deploy my first **full-stack application**.  
-2. Meaningful contribution to open-source projects that can make a change in end users day to day life. 
-3. Blend my marketing expertise with web development to create user-focused platforms.  
-
----
-
-## 📫 Let's Connect:  
-
-- **LinkedIn**: [https://ca.linkedin.com/in/gurdishsingh001]
-- **Website**: Coming Soon 🚀
-
----
-
-Thanks for stopping by and don't hesitate to reach out if you want to collaborate or just say hi. 😊  
+## Let's Connect
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gurdishsingh001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurdishsingh001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gurdishsingh001@gmail.com) 
+This is all about me, generate a nice github profile including emojies, tech stack tags, github activity generator and much more you can think of.
