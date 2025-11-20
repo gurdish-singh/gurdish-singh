@@ -1,5 +1,4 @@
 # Gurdish Singh
-![](https://raw.githubusercontent.com/Tarif24/Tarif24/output/github-snake-dark.svg)
 ![](https://github-profile-trophy.vercel.app/?username=gurdish-singh&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
